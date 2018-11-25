@@ -29,6 +29,14 @@ h5 {
     border: solid 1px #d2d2d2
 }
 
+.cont-all input {
+    display: block;
+}
+
+.cont-all input[type="submit"] {
+    display: inline-block;
+}
+
 .conteudo h1 {
     color: silver;
     font-size: 22px;

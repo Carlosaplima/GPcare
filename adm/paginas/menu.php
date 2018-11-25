@@ -67,7 +67,10 @@ nav.sidebar a:hover {
     color: #fff!important;
 
 }
-
+.navbar-default .navbar-nav>li>a:hover{
+  
+  background-color: #001a74!important;
+}
 .panel-heading {
 
     padding:0;
