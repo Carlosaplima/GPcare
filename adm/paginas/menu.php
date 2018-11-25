@@ -62,7 +62,7 @@ nav.sidebar a {
 
 nav.sidebar a:hover {
 
-    background-color: #990900;
+    background-color: #001a74;
 
     color: #fff!important;
 
