@@ -1,0 +1,408 @@
+
+
+@media screen and (max-width: 1399px) {
+
+    .info-tels li {
+
+    padding: 0 0 0 52px;
+
+}
+
+.col-sm-6 .box-atd-online p a{
+
+width:384px;
+
+}
+
+
+
+@media screen and (max-width:1124px){
+
+.ligue {
+
+    font-size: 20px;
+
+    text-transform: uppercase;
+
+    font-family: 'museo700';
+
+    text-align: center;
+
+    text-decoration: none;
+
+    /* padding-left: 136px; */
+
+}
+
+
+
+}
+
+
+
+
+
+@media screen and (min-width:720px){
+
+
+
+.style-quems .col-xs-12 {
+
+    width: 100%;
+
+}    
+
+}
+
+
+
+
+
+
+
+@media screen and (min-width:766px){
+
+.navbar-nav li:first-child a {
+
+    padding: 44px 5px 0;
+
+    font-size: 16px;
+
+    font-size: 1.6rem;
+
+}
+
+.navbar-nav>li>a {
+
+    padding: 66px 0 0 0;
+
+    font-size: 13px;
+
+    font-size: 1.3rem;
+
+    height: 100%;
+
+}
+
+.navbar-nav>li {
+
+    height: 117px;
+
+}
+
+.cont-logo {
+
+    padding: 0;
+
+    text-align: left;
+
+}
+
+.ligue {
+
+ padding-left:0;
+
+}
+
+.info-logo .col-sm-6{
+
+        min-height: 75px;
+
+}
+
+
+
+.info-logo .col-sm-6:nth-child(3),.info-logo .col-sm-6:nth-child(4) {
+
+        min-height: 60px;
+
+}
+
+.cont-busca .btn {
+
+    position: absolute;
+
+}
+
+.cont-busca{
+
+        padding: 0 20px 0 0;
+
+}
+
+.info-tels li {
+
+    padding:0;
+
+    margin: 0;
+
+    background-image: none;
+
+        font-size: 13px;
+
+    font-size: 1.3rem;
+
+}
+
+.info-tels li strong {
+
+    font-size: 14px;
+
+    font-size: 1.4rem;
+
+}
+
+.col-sm-12 .ul-cont-imagens li {
+
+      width: 18%;
+
+    height: 130px;
+
+        background-size: 50px!important;
+
+}
+
+.navbar-nav>li>.dropdown-menu li a {
+
+    font-size: 14px;
+
+    font-size: 1.4rem;
+
+}
+
+.cont-boxs-produtos li div {
+
+    font-size: 13px;
+
+}
+
+.box-info-pd-l span:nth-child(1){
+
+    display: block;
+
+}
+
+.box-info-pd-l:nth-child(5) span:first-child, .box-info-pd-l:nth-child(6) span:first-child{
+
+    display: none;
+
+}
+
+.count-input a:nth-child(1){
+
+    float: left;
+
+}
+
+.count-input a:last-child{
+
+float: right;    
+
+}
+
+.line-info-produtos .count-input a {
+
+    width: 36px;
+
+    padding: 10px 10px;
+
+}
+
+.bts-etps a {
+
+    width: 32.9%;
+
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 45em) {
+
+.box-atd-online p a{background-image:none;position:relative;z-index:1;width:100%;display:inline-block;font-size:1.8rem;padding:10px 0}
+
+.info-tels{float:none;text-align:center}
+
+.info-tels li{background-size:33px}
+
+.info-tels li strong{display:none}
+
+.info-tels li:nth-child(1){background-position:10px -7px}
+
+.info-tels li:nth-child(2){background-position:10px -42px}
+
+.logo{font-size:16px;font-size:1.6rem}
+
+.logo a{background-size:160px;width:160px;height:25px;margin:0 0 4px;line-height:normal;font-size:1.6rem;font-size:16px}
+
+.ligue strong{font-size:24px;font-size:2.4rem}
+
+.ligue{font-size:14px;font-size:1.4rem;padding:0;margin-bottom:10px}
+
+.ul-login{background-size:27px;background-position:0 0;float:right;background-image:none;padding-left:0}
+
+.ul-login li{font-size:13px;font-size:1.3rem}
+
+.container-carrinho p{margin:17px 0 0;font-size:13px;font-size:1.3rem}
+
+.container-carrinho{border-top:1px solid #ddd;border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-radius:39px 0 0 39px;background-color:#f5f4f4;float:right;padding:7px;outline:none;margin-right:-15px}
+
+.info-carrinho{padding-left:0;height:initial;width:56px;height:56px;border-radius:50%;background-color:#bc000e;text-align:center;display:table}
+
+.cont-localizacao{margin-bottom:10px}
+
+.cont-busca .btn{position:absolute}
+
+.info-carrinho span{position:initial;top:initial;right:initial;background-color:transparent;color:#fff;border-radius:initial;overflow:initial;height:initial;width:initial;font-size:100%;padding:0;text-align:center;display:table-cell;vertical-align:middle}
+
+.info-logo{padding:0 0 12px}
+
+.info-logo .row{padding-top:10px}
+
+.cont-logo{padding:10px 0;text-align:left;margin-bottom:5px}
+
+.cont-logo p{font-size:1.3rem;font-size:13px;margin-bottom:10px;display:none}
+
+.fone-style{display:none}
+
+.cont-banner .carousel{height:initial!important}
+
+.info-carrinho{background-image:none}
+
+.ul-cont-imagens{text-align:left}
+
+.ul-cont-imagens li{width:100%;margin-left:0;font-family:'museo300';background-position:left center!important;padding-left:77px;height:70px}
+
+.ul-cont-imagens li span{vertical-align:middle}
+
+.navbar-nav>li{width:100%;border-bottom:1px solid #7d0505}
+
+.navbar-nav li:first-child a,.navbar-nav>li>a{padding:15px 25px;font-size:14px;font-size:1.4rem}
+
+.navbar-nav>li>a{background-image:none!important;text-align:left}
+
+.nav > li.dropdown.open .dropdown-menu{background-color:#3267b5}
+
+.navbar-nav>li>.dropdown-menu li{width:100%;text-align:left}
+
+.style-width-line li{width:100%!important}
+
+.container-fluid>.navbar-header{border-bottom:1px solid #8b020c}
+
+.container-produtos .col-xs-12{text-align:center;margin-bottom:40px}
+
+.container-produtos .col-xs-12 .box-produto{text-align:left}
+
+.container-box-s{width:100%}
+
+.container-newslatter h2{margin-bottom:10px}
+
+.container-newslatter .style-box-new{width:100%}
+
+.cont-newsletter form .btn{position:absolute;right:14px}
+
+.container-newslatter form{width:100%}
+
+.carousel-control.left{margin-left:0}
+
+.seta-direita{transform:rotate(225deg);margin:0;right:0}
+
+.carousel-control.left,.carousel-control.right{background-image:none!important;height:100%;min-height:100%;display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;-webkit-justify-content:center;justify-content:center}
+
+.container-marcas-galeria .box-produto{border:2px solid #eee;min-height:130px;overflow:hidden}
+
+.seta-esquerda{left:0}
+
+.width-m,.width-p,.width-mp,.width-ppp,.width-pp,.width-mpp,.style-form-cdstro select,.info-conta ul li,.style-senha .form-group,.txt-info-cont .cont-bts,.cont-form-cdstro .cont-bts .style-bt-bsc,.style-line-form,.frete .style-line-form,.txt-info-solucoes,.txt-info-solucoes li,.txt-container-box,.box-style-cont-locacao,.style-input,.cont-bts-line,.cont-bts-line .bts-etps a{width:100%}
+
+.cont-bts a{width:49%}
+
+.cont-form-cdstro{padding-top:20px;padding-bottom:20px}
+
+.style-line-form{margin-bottom:10px}
+
+.txt-info-solucoes li{text-align:left}
+
+.txt-info-solucoes li span{float:left;margin:0 20px 0 0}
+
+.container-empresa-box{display:inline-block;text-align:center}
+
+.box-txt-parallax h2 span{font-size:25px;font-size:2.5rem}
+
+.style-pd-tb-txt{padding-top:30px;padding-bottom:16px}
+
+.container-assistencia article{margin-bottom:10px}
+
+.container-assistencia{padding:0 15px}
+
+.box-frete .btn-info{width:100%;border-radius:0 0 4px 4px}
+
+.nav-tabs>li{float:none}
+
+.nav-tabs>li>a{border:1px solid #ddd;color:#000;border-radius:0}
+
+.style-info-txt-pdt{border-radius:0}
+
+.box-img-pq ul{margin-bottom:20px}
+
+.container-produtos-galeria{text-align:center}
+
+.container-produtos-galeria .cont-valores{text-align:left}
+
+.cont-boxs-produtos li{display:inline-block}
+
+.cont-titulos-line{display:none!important}
+
+.box-info-pd-l{padding:10px 0}
+
+.cont-boxs-produtos li div{width:100%;display:inline-block;border:none}
+
+.line-info-produtos{padding:20px}
+
+.line-info-produtos div:nth-child(1){background:#ccc}
+
+.line-info-produtos div:nth-child(1) span:nth-child(2){font-size:16px;font-size:1.6rem;line-height:29px}
+
+.line-info-produtos div:nth-child(2){background:#fff!important;text-align:center}
+
+.line-info-produtos div:nth-child(2) .img-responsive{background:#fff;text-align:center;display:inline-block!important}
+
+.line-info-produtos div:nth-child(3){background:#eee;padding:10px}
+
+.line-info-produtos div:nth-child(4){background:#666;text-align:center!important}
+
+.line-info-produtos div:nth-child(5){background:#999;padding:10px}
+
+.line-info-produtos div:nth-child(6){padding:10px;background-color:rgba(204,204,204,0.83);background-color:#bc000e}
+
+.line-info-produtos div:nth-child(6),.line-info-produtos div:nth-child(5){color:#fff;font-size:20px;font-size:2rem}
+
+.line-info-produtos .count-input a span{float:none}
+
+.box-info-pd-l span{display:inline-block;font-size:16px;font-size:1.6rem;float:left}
+
+.style-check input[type=checkbox],.style-check input[type=radio]{margin:4px 0 0;width:19px;height:19px;margin-top:1px\9;line-height:normal}
+
+.line-info-produtos .box-info-pd-l:nth-child(3) a span{display:block;width:100%}
+
+.line-info-produtos div:nth-child(1) .style-check{width:initial;padding-left:10px;margin-right:10px}
+
+}
+
+
+
+
+
